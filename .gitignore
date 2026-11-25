@@ -1,0 +1,6 @@
+.vscode/
+.env
+.env.*
+!.env.example
+
+.codex-recovery-backup-*.zip
